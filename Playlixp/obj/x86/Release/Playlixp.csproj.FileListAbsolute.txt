@@ -1,0 +1,15 @@
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\bin\Release\Playlixp.exe
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\bin\Release\Playlixp.pdb
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\MainWindow.baml
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\MainWindow.g.cs
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\App.g.cs
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\Playlixp_Content.g.cs
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\Playlixp_MarkupCompile.cache
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\Playlixp.g.resources
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\Playlixp.Properties.Resources.resources
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\Playlixp.exe
+C:\Users\felix\Documents\Visual Studio 2010\Projects\Playlixp\Playlixp\obj\x86\Release\Playlixp.pdb
