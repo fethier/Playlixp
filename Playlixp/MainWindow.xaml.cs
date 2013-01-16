@@ -100,6 +100,9 @@ namespace Playlixp
 
         private void btnExport_Click(object sender, RoutedEventArgs e)
         {
+            if (lstPlaylists.SelectedIndex < 0)
+                return;
+
             BasePlaylist currentPlaylist = _playLists[lstPlaylists.SelectedIndex];
             SaveFileDialog saveDiag = new SaveFileDialog();
 
